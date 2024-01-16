@@ -10,7 +10,7 @@
 
   <!-- 相依性 https://docs.microsoft.com/zh-tw/azure/sql-database/sql-database-connect-query-dotnet-core -->
   <ItemGroup>
-      <PackageReference Include="System.Data.SqlClient" Version="4.6.0" />
+      <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
 </Project>
